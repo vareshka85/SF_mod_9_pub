@@ -1,2 +1,2 @@
-# mod_9_togeter
+# mod_9_together
 Совместная работа
